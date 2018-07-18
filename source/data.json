@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "image": "/assets/images/aztec.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/bad.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/clown.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/corvo.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/fox.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/Gas_Mask.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/ghibli.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/hood.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/jason.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/sin.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/skyrim.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/face.png",
+    "clicked": false
+  }
+]
